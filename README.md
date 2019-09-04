@@ -12,8 +12,9 @@
     conda install -c peterjc123 pytorch cuda80 (GPU 지원)
    ```
 * torchvision 설치
-    * pip install torchvision
-
+    ```
+    pip install torchvision
+    ```
 # PyTorch v1.x 버전을 Windows 10에 설치하는 방법
 
 * anaconda (python 3.5+) 설치
@@ -27,4 +28,4 @@
    ```
 
 # OpenCV 설치
-* `pip install opencv-python`
+    `pip install opencv-python`
