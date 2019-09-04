@@ -7,8 +7,8 @@
 * anaconda prompt 관리자 모드로 실행
 
 * pytorch windows 10 용 설치
- * `conda install -c peterjc123 pytorch`
- * conda install -c peterjc123 pytorch cuda80 (GPU 지원)
+    * `conda install -c peterjc123 pytorch`
+    * conda install -c peterjc123 pytorch cuda80 (GPU 지원)
 
 ## torchvision 설치
 * `pip install torchvision`
