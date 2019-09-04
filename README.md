@@ -7,7 +7,7 @@
 * anaconda prompt 관리자 모드로 실행
 
 * pytorch v0.3.0 windows 10 용 설치
-    ```
+    ```conda
     conda install -c peterjc123 pytorch
     conda install -c peterjc123 pytorch cuda80 (GPU 지원)
    ```
